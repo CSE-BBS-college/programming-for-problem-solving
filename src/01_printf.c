@@ -6,9 +6,8 @@
      printf("Hello world! \n");               // simple string printing 
      printf("This is a sentance \n");         // \n is used for line brake
  
-
-     printf("8 \n"); // printging a integer
-
-     printf("68.33 \n "); // printging a floating value
+     printf("8 \n");       // printging a integer
+    
+     printf("68.33 \n ");      // printging a floating value
      return 0;
  }

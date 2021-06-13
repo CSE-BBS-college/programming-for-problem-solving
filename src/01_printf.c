@@ -1,13 +1,11 @@
 #include <stdio.h>    //stdio.h is a header file which has the necessary info to include the I/O related functions in our program. Example printf, scanf
 
- int main() 
+ int main()
  {
 
-     // simple string printing 
-     // \n is used for line brake
-
-     printf("Hello world! \n");
-     printf("This is a sentance \n");    
+     printf("Hello world! \n");               // simple string printing 
+     printf("This is a sentance \n");         // \n is used for line brake
+ 
 
      printf("8 \n"); // printging a integer
 

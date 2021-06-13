@@ -8,7 +8,6 @@
         * data type char is used for a charecter
         *   
         *  eg: 
-        * 
         *    data_type  variable_name =  var_value;
         *    int   age = 26;
         *   
@@ -24,7 +23,7 @@
         *
         */
 
-
+            //integer value
             int number = 3;
             printf("%d \n",number);
 
@@ -33,7 +32,7 @@
             printf("%f \n", percentage);
 
             // charecter
-            char first_letter_of_name = 'A' ;    // charecter always needs to be in single quotestion marks
+            char first_letter_of_name = 'A' ;    // charecter always needs to be in single quotation marks
             printf("%c \n", first_letter_of_name);
 
 

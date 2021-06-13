@@ -1,6 +1,7 @@
-#include <stdio.h>
+#include <stdio.h>    //stdio.h is a header file which has the necessary info to include the I/O related functions in our program. Example printf, scanf
 
- int main() {
+ int main() 
+ {
 
      // simple string printing 
      // \n is used for line brake

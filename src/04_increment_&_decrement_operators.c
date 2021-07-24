@@ -5,7 +5,7 @@ int main()
     /*increment and decrement operators
     * ++ = increment operator
     * -- = descrement operator
-    * NOTE: these are unary operators which only operate single operand
+    * NOTE: these are unitary operators which only operate single operand
     */
 
     int a = 10, b = 100;
